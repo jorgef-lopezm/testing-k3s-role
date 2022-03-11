@@ -1,5 +1,5 @@
 [agent]
-ubuntu1
+localhost
 
 [worker]
 ubuntu2
