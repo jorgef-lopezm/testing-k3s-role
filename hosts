@@ -1,0 +1,6 @@
+[agent]
+ubuntu1
+
+[worker]
+ubuntu2
+ubuntu3

@@ -1,0 +1,6 @@
+[master]
+ubuntu1
+
+[workers]
+ubuntu2
+ubuntu3

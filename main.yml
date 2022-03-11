@@ -1,0 +1,5 @@
+- hosts: agent
+  vars:
+    k3s_release_version: stable
+  roles:
+     - role: xanmanning.k3s
